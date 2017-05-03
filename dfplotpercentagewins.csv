@@ -1,0 +1,239 @@
+"Team","Venue","games","wins","percentage.wins"
+"Adelaide","AAMI Stadium",56,34,60.7142857142857
+"Adelaide","SCG",2,NA,0
+"Adelaide","Spotless Stadium",4,3,75
+"Adelaide","Aurora Stadium",1,NA,0
+"Adelaide","Gabba",6,5,83.3333333333333
+"Adelaide","Adelaide Oval",38,27,71.0526315789474
+"Adelaide","Metricon Stadium",6,6,100
+"Adelaide","Simonds Stadium",5,NA,0
+"Adelaide","Domain Stadium",9,5,55.5555555555556
+"Adelaide","Blundstone Arena",1,NA,0
+"Adelaide","Etihad Stadium",25,8,32
+"Adelaide","MCG",22,9,40.9090909090909
+"Brisbane","SCG",5,1,20
+"Brisbane","TIO Stadium",1,1,100
+"Brisbane","Etihad Stadium",26,7,26.9230769230769
+"Brisbane","AAMI Stadium",6,3,50
+"Brisbane","Westpac Stadium",1,1,100
+"Brisbane","Aurora Stadium",5,NA,0
+"Brisbane","Gabba",85,33,38.8235294117647
+"Brisbane","Simonds Stadium",5,NA,0
+"Brisbane","MCG",15,2,13.3333333333333
+"Brisbane","Domain Stadium",9,2,22.2222222222222
+"Brisbane","Metricon Stadium",6,3,50
+"Brisbane","Adelaide Oval",4,NA,0
+"Brisbane","Spotless Stadium",1,NA,0
+"Carlton","SCG",5,1,20
+"Carlton","AAMI Stadium",6,5,83.3333333333333
+"Carlton","Westpac Stadium",1,1,100
+"Carlton","Etihad Stadium",63,28,44.4444444444444
+"Carlton","Metricon Stadium",3,1,33.3333333333333
+"Carlton","Domain Stadium",12,6,50
+"Carlton","MCG",68,30,44.1176470588235
+"Carlton","Aurora Stadium",1,NA,0
+"Carlton","ANZ Stadium",2,NA,0
+"Carlton","Adelaide Oval",1,NA,0
+"Carlton","Gabba",8,3,37.5
+"Carlton","Spotless Stadium",3,NA,0
+"Collingwood","AAMI Stadium",5,4,80
+"Collingwood","Metricon Stadium",4,2,50
+"Collingwood","Domain Stadium",8,3,37.5
+"Collingwood","Spotless Stadium",3,3,100
+"Collingwood","SCG",3,1,33.3333333333333
+"Collingwood","MCG",120,77,64.1666666666667
+"Collingwood","ANZ Stadium",7,6,85.7142857142857
+"Collingwood","Adelaide Oval",3,NA,0
+"Collingwood","Etihad Stadium",24,14,58.3333333333333
+"Collingwood","Gabba",5,4,80
+"Essendon","AAMI Stadium",6,3,50
+"Essendon","Metricon Stadium",3,1,33.3333333333333
+"Essendon","Domain Stadium",13,3,23.0769230769231
+"Essendon","MCG",62,23,37.0967741935484
+"Essendon","Etihad Stadium",70,33,47.1428571428571
+"Essendon","ANZ Stadium",2,NA,0
+"Essendon","Spotless Stadium",4,3,75
+"Essendon","Adelaide Oval",3,1,33.3333333333333
+"Essendon","Gabba",3,3,100
+"Essendon","SCG",5,1,20
+"Fremantle","Metricon Stadium",4,3,75
+"Fremantle","Domain Stadium",96,63,65.625
+"Fremantle","AAMI Stadium",8,4,50
+"Fremantle","Etihad Stadium",26,12,46.1538461538462
+"Fremantle","ANZ Stadium",1,NA,0
+"Fremantle","SCG",5,2,40
+"Fremantle","Spotless Stadium",1,NA,0
+"Fremantle","TIO Stadium",2,1,50
+"Fremantle","MCG",17,6,35.2941176470588
+"Fremantle","Gabba",4,4,100
+"Fremantle","Simonds Stadium",5,2,40
+"Fremantle","Aurora Stadium",5,NA,0
+"Fremantle","Adelaide Oval",5,1,20
+"Geelong","Spotless Stadium",2,2,100
+"Geelong","Metricon Stadium",3,2,66.6666666666667
+"Geelong","Domain Stadium",12,6,50
+"Geelong","Adelaide Oval",4,3,75
+"Geelong","MCG",53,34,64.1509433962264
+"Geelong","ANZ Stadium",3,2,66.6666666666667
+"Geelong","AAMI Stadium",5,2,40
+"Geelong","Simonds Stadium",55,49,89.0909090909091
+"Geelong","SCG",4,2,50
+"Geelong","Manuka Oval",2,1,50
+"Geelong","Gabba",7,5,71.4285714285714
+"Geelong","Etihad Stadium",34,25,73.5294117647059
+"Gold Coast","Metricon Stadium",65,24,36.9230769230769
+"Gold Coast","Domain Stadium",9,1,11.1111111111111
+"Gold Coast","Cazaly’s Stadium",6,2,33.3333333333333
+"Gold Coast","Gabba",9,2,22.2222222222222
+"Gold Coast","Simonds Stadium",4,NA,0
+"Gold Coast","Spotless Stadium",2,NA,0
+"Gold Coast","AAMI Stadium",4,1,25
+"Gold Coast","Etihad Stadium",13,2,15.3846153846154
+"Gold Coast","SCG",2,NA,0
+"Gold Coast","MCG",11,2,18.1818181818182
+"Gold Coast","TIO Stadium",1,NA,0
+"Gold Coast","Adelaide Oval",2,NA,0
+"Gold Coast","Aurora Stadium",4,NA,0
+"Gold Coast","Manuka Oval",3,1,33.3333333333333
+"GWS Giants","ANZ Stadium",4,1,25
+"GWS Giants","Metricon Stadium",5,2,40
+"GWS Giants","Simonds Stadium",2,NA,0
+"GWS Giants","Blacktown Park",1,NA,0
+"GWS Giants","MCG",10,1,10
+"GWS Giants","Domain Stadium",7,1,14.2857142857143
+"GWS Giants","Adelaide Oval",5,1,20
+"GWS Giants","Aurora Stadium",1,NA,0
+"GWS Giants","Manuka Oval",15,6,40
+"GWS Giants","Spotless Stadium",39,18,46.1538461538462
+"GWS Giants","SCG",4,NA,0
+"GWS Giants","Gabba",4,2,50
+"GWS Giants","Etihad Stadium",14,6,42.8571428571429
+"GWS Giants","Blundstone Arena",2,1,50
+"GWS Giants","AAMI Stadium",2,NA,0
+"Hawthorn","Metricon Stadium",3,2,66.6666666666667
+"Hawthorn","Aurora Stadium",30,27,90
+"Hawthorn","ANZ Stadium",3,2,66.6666666666667
+"Hawthorn","Adelaide Oval",5,3,60
+"Hawthorn","Domain Stadium",11,4,36.3636363636364
+"Hawthorn","Spotless Stadium",2,NA,0
+"Hawthorn","Gabba",1,1,100
+"Hawthorn","MCG",97,67,69.0721649484536
+"Hawthorn","SCG",5,4,80
+"Hawthorn","AAMI Stadium",7,4,57.1428571428571
+"Hawthorn","Etihad Stadium",22,17,77.2727272727273
+"Melbourne","Domain Stadium",8,NA,0
+"Melbourne","Spotless Stadium",2,NA,0
+"Melbourne","Traeger Park",3,NA,0
+"Melbourne","Gabba",5,2,40
+"Melbourne","Simonds Stadium",7,1,14.2857142857143
+"Melbourne","SCG",2,NA,0
+"Melbourne","Metricon Stadium",2,1,50
+"Melbourne","Adelaide Oval",5,2,40
+"Melbourne","MCG",96,36,37.5
+"Melbourne","TIO Stadium",7,3,42.8571428571429
+"Melbourne","Blundstone Arena",1,NA,0
+"Melbourne","Manuka Oval",3,1,33.3333333333333
+"Melbourne","AAMI Stadium",3,NA,0
+"Melbourne","Etihad Stadium",24,2,8.33333333333333
+"North Melbourne","Domain Stadium",14,3,21.4285714285714
+"North Melbourne","ANZ Stadium",2,1,50
+"North Melbourne","Aurora Stadium",4,1,25
+"North Melbourne","Simonds Stadium",4,1,25
+"North Melbourne","Metricon Stadium",5,3,60
+"North Melbourne","Spotless Stadium",2,2,100
+"North Melbourne","Adelaide Oval",4,NA,0
+"North Melbourne","SCG",5,1,20
+"North Melbourne","Blundstone Arena",13,9,69.2307692307692
+"North Melbourne","Gabba",6,2,33.3333333333333
+"North Melbourne","AAMI Stadium",5,2,40
+"North Melbourne","Manuka Oval",1,1,100
+"North Melbourne","MCG",17,9,52.9411764705882
+"North Melbourne","Etihad Stadium",93,56,60.2150537634409
+"Port Adelaide","Gabba",4,1,25
+"Port Adelaide","Adelaide Oval",40,23,57.5
+"Port Adelaide","Simonds Stadium",5,NA,0
+"Port Adelaide","SCG",5,1,20
+"Port Adelaide","Traeger Park",3,3,100
+"Port Adelaide","MCG",12,4,33.3333333333333
+"Port Adelaide","Spotless Stadium",2,1,50
+"Port Adelaide","Blundstone Arena",1,NA,0
+"Port Adelaide","AAMI Stadium",53,22,41.5094339622642
+"Port Adelaide","Aurora Stadium",1,NA,0
+"Port Adelaide","TIO Stadium",6,2,33.3333333333333
+"Port Adelaide","Domain Stadium",11,3,27.2727272727273
+"Port Adelaide","Metricon Stadium",5,5,100
+"Port Adelaide","Etihad Stadium",22,8,36.3636363636364
+"Port Adelaide","Manuka Oval",2,1,50
+"Richmond","Gabba",5,5,100
+"Richmond","MCG",102,49,48.0392156862745
+"Richmond","Simonds Stadium",2,NA,0
+"Richmond","Manuka Oval",1,NA,0
+"Richmond","Spotless Stadium",3,3,100
+"Richmond","Metricon Stadium",2,NA,0
+"Richmond","Adelaide Oval",5,2,40
+"Richmond","ANZ Stadium",1,1,100
+"Richmond","TIO Stadium",1,NA,0
+"Richmond","Blundstone Arena",2,NA,0
+"Richmond","SCG",5,1,20
+"Richmond","Domain Stadium",10,4,40
+"Richmond","Cazaly’s Stadium",3,1,33.3333333333333
+"Richmond","AAMI Stadium",6,4,66.6666666666667
+"Richmond","Etihad Stadium",22,9,40.9090909090909
+"St Kilda","Simonds Stadium",3,1,33.3333333333333
+"St Kilda","Spotless Stadium",1,NA,0
+"St Kilda","Aurora Stadium",2,1,50
+"St Kilda","ANZ Stadium",2,1,50
+"St Kilda","Gabba",5,4,80
+"St Kilda","MCG",29,14,48.2758620689655
+"St Kilda","Adelaide Oval",6,NA,0
+"St Kilda","Manuka Oval",1,1,100
+"St Kilda","SCG",5,1,20
+"St Kilda","Westpac Stadium",3,NA,0
+"St Kilda","Domain Stadium",10,4,40
+"St Kilda","Metricon Stadium",6,3,50
+"St Kilda","AAMI Stadium",7,1,14.2857142857143
+"St Kilda","Blundstone Arena",2,NA,0
+"St Kilda","Etihad Stadium",93,48,51.6129032258064
+"Sydney","Gabba",5,5,100
+"Sydney","Spotless Stadium",3,1,33.3333333333333
+"Sydney","Aurora Stadium",1,1,100
+"Sydney","AAMI Stadium",8,5,62.5
+"Sydney","Adelaide Oval",4,3,75
+"Sydney","Manuka Oval",3,2,66.6666666666667
+"Sydney","Simonds Stadium",6,2,33.3333333333333
+"Sydney","MCG",26,10,38.4615384615385
+"Sydney","Etihad Stadium",19,14,73.6842105263158
+"Sydney","ANZ Stadium",27,13,48.1481481481481
+"Sydney","SCG",67,49,73.134328358209
+"Sydney","Metricon Stadium",5,5,100
+"Sydney","Westpac Stadium",1,1,100
+"Sydney","Domain Stadium",10,6,60
+"Sydney","Blundstone Arena",2,2,100
+"West Coast","Simonds Stadium",3,NA,0
+"West Coast","AAMI Stadium",9,4,44.4444444444444
+"West Coast","TIO Stadium",1,1,100
+"West Coast","Aurora Stadium",2,NA,0
+"West Coast","SCG",2,NA,0
+"West Coast","Adelaide Oval",5,4,80
+"West Coast","Blacktown Park",1,1,100
+"West Coast","MCG",19,5,26.3157894736842
+"West Coast","Spotless Stadium",2,2,100
+"West Coast","Blundstone Arena",2,1,50
+"West Coast","Etihad Stadium",25,13,52
+"West Coast","Metricon Stadium",2,1,50
+"West Coast","Gabba",7,5,71.4285714285714
+"West Coast","Domain Stadium",96,62,64.5833333333333
+"Western Bulldogs","Simonds Stadium",6,NA,0
+"Western Bulldogs","AAMI Stadium",4,2,50
+"Western Bulldogs","SCG",5,2,40
+"Western Bulldogs","Metricon Stadium",3,1,33.3333333333333
+"Western Bulldogs","Gabba",5,1,20
+"Western Bulldogs","Etihad Stadium",101,54,53.4653465346535
+"Western Bulldogs","Manuka Oval",5,4,80
+"Western Bulldogs","TIO Stadium",3,3,100
+"Western Bulldogs","Aurora Stadium",3,NA,0
+"Western Bulldogs","Cazaly’s Stadium",3,3,100
+"Western Bulldogs","Adelaide Oval",3,1,33.3333333333333
+"Western Bulldogs","MCG",24,13,54.1666666666667
+"Western Bulldogs","Spotless Stadium",2,1,50
+"Western Bulldogs","Domain Stadium",11,2,18.1818181818182
