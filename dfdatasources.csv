@@ -1,0 +1,11 @@
+Data source,Notes
+http://www.aussportsbetting.com/data/historical-afl-results-and-odds-data/,for fixtures of all games since 2009
+https://en.wikipedia.org/wiki/List_of_Australian_Football_League_grounds,for locations and names of the grounds
+http://www.bom.gov.au/ & https://www.google.com.au/maps,to work out the nearest weather stations and to download the relevant temperature and rainfall data
+http://afltables.com/afl/afl_index.html,for the personal stats on AFL players
+https://www.bigfooty.com/forum/threads/afl-colours-guide.810014/page-2,AFL team colours manually transcribed from this thread
+https://docs.google.com/spreadsheets/d/1tJKEJj4cfXjdgVQvXgkMKZaPzhosNkeJ2GtrgYIINuE/pub?output=csv,CSV created with team colours from the above thread
+http://www.nfl.com/teams,for the personal stats on NFL players
+https://www.zerotackle.com,for the personal stats on NRL players
+https://www.kaggle.com/hugomathien/soccer,for the personal stats on all European Soccer players
+http://www.besttickets.com/blog/wp-content/uploads/2013/12/NBA-Census-10.14.2013.csv,for the stats on NBA players (2013)
